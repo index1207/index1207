@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=index1207%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=index1207&fontSize=70" />
 
 <!--
 **index1207/index1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
