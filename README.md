@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:85ffef,50:a8deff,100:efe3ff&height=250&section=header&text=INDEX1207&rotate=16&fontAlignY=30&fontAlign=70&fontColor=ffff&fontSize=90)
 
 <br></br>
-![index1207's github stats](https://github-readme-stats.vercel.app/api?username=index1207&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=index1225)](https://solved.ac/index1225/)
-
+![index1207's github stats](https://github-readme-stats.vercel.app/api?username=index1207&show_icons=true) ![index1207's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=index1225)
 <br>
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
