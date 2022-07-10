@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=slice&color=0:85ffef,50:a8deff,100:efe3ff&height=250&section=header&text=INDEX1207&rotate=16&fontAlignY=30&fontAlign=70&fontColor=ffff&fontSize=90
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:85ffef,50:a8deff,100:efe3ff&height=250&section=header&text=INDEX1207&rotate=16&fontAlignY=30&fontAlign=70&fontColor=ffff&fontSize=90)
 
 <h2 align="center"> 🛠 Tech Stack 🛠 <br>
 <img src="https://img.shields.io/badge/Unreal-%23313131.svg?style=flat&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Aseprite-ffffff?style=flat&logo=Aseprite&logoColor=7D929E"/>
