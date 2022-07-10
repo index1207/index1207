@@ -1,6 +1,6 @@
 https://capsule-render.vercel.app/api?type=slice&color=0:85ffef,50:a8deff,100:efe3ff&height=250&section=header&text=INDEX1207&rotate=16&fontAlignY=30&fontAlign=70&fontColor=ffff&fontSize=90
 
-<h1 align="center"> 🛠 Tech Stack 🛠
+<h1 align="center"> 🛠 Tech Stack 🛠 </h1>
 ---
 <img src="https://img.shields.io/badge/Unreal-%23313131.svg?style=flat&logo=unrealengine&logoColor=white"/> ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-ffffff?style=flat&logo=Aseprite&logoColor=)
 <br>
