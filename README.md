@@ -1,4 +1,4 @@
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=index1207)](https://solved.ac/index1207/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=index1225)](https://solved.ac/index1225)
  
  <br></br>
 💻 가능한 언어<br></br>
