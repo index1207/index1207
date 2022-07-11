@@ -4,9 +4,9 @@
 <h2 align="center"> 🎇 Me 🎇 </h2>
 <br>
 <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=index1207&show_icons=true" width="55%"/> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=index1225" width="135%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=index1207&show_icons=true" width="55%"/> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=index1225" width="65%"/>
 </div>
-[![index1207's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=index1207)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=index1207"/>
 <br>
 <h3 align="center"> 💌 SNS 💌 </h3>
 <div align="center">
