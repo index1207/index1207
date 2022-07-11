@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:85ffef,50:a8deff,100:efe3ff&height=250&section=header&text=INDEX1207&rotate=16&fontAlignY=30&fontAlign=70&fontColor=ffff&fontSize=90)
 
 <br></br>
+<div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=index1207&show_icons=true"/> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=index1225"/>
+</div>
 <br>
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
