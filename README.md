@@ -10,7 +10,7 @@
 
 <h3 align="center"> 💌 SNS 💌 </h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Instagram-%23fc1eb6.svg?style=flat&logo=Instagram&logoColor=ffffff" href="https://www.instagram.com/sgus._"/>
+<a href="https://www.instagram.com/sgus._"><img src="https://img.shields.io/badge/Instagram-%23fc1eb6.svg?style=flat&logo=Instagram&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/태현%237500-%237289DA.svg?style=flat&logo=discord&logoColor=white"/>
 </div>
 <br>
