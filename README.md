@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:85ffef,50:a8deff,100:efe3ff&height=250&section=header&text=INDEX1207&rotate=16&fontAlignY=30&fontAlign=70&fontColor=ffff&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:85ffef,32:a8deff,100:efe3ff&height=250&section=header&text=INDEX1207&rotate=16&fontAlignY=30&fontAlign=70&fontColor=ffff&fontSize=90)
 
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
@@ -17,6 +17,6 @@
 <br>
 <h3> 💌 SNS 💌 </h3>
 <img src="https://img.shields.io/badge/Instagram-%23ffffff.svg?style=flat&logo=Instagram&logoColor=ff339c" href="https://www.instagram.com/sgus._"/>
-<img src="https://img.shields.io/badge/태현#7500%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/태현%237500%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
 <br>
