@@ -4,7 +4,7 @@
 <h2 align="center"> 🎇 Me 🎇 </h2>
 <br>
 <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=index1207&show_icons=true" width="55%"/> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=index1225"/>
+<img src="https://github-readme-stats.vercel.app/api?username=index1207&show_icons=true" width="125"/> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=index1225"/>
 <br>
 <h3> 💌 SNS 💌 </h3>
 <img src="https://img.shields.io/badge/Instagram-%23fc1eb6.svg?style=flat&logo=Instagram&logoColor=ffffff" href="https://www.instagram.com/sgus._"/>
