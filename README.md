@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:85ffef,32:a8deff,100:efe3ff&height=250&section=header&text=INDEX1207&rotate=16&fontAlignY=30&fontAlign=70&fontColor=ffff&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:85ffef,30:a8deff,100:efe3ff&height=250&section=header&text=INDEX1207&rotate=16&fontAlignY=30&fontAlign=70&fontColor=ffff&fontSize=90)
 
 
 <h2 align="center"> 🎇 Me 🎇 </h2>
