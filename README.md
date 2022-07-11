@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=index1207&show_icons=true"/> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=index1225"/>
 <br>
 <h3> 💌 SNS 💌 </h3>
-<img src="https://img.shields.io/badge/Instagram-%23ffffff.svg?style=flat&logo=Instagram&logoColor=ff339c" href="https://www.instagram.com/sgus._"/>
-<img src="https://img.shields.io/badge/태현%237500%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-%23fc1eb6.svg?style=flat&logo=Instagram&logoColor=ffffff" href="https://www.instagram.com/sgus._"/>
+<img src="https://img.shields.io/badge/태현%237500-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
 <br>
