@@ -1,27 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:54ffe9,20:a8deff,45:c9e1ff,90:efe3ff,100:edd7fc&height=250&section=header&text=INDEX1207&rotate=16&fontAlignY=30&fontAlign=70&fontColor=ffff&fontSize=90)
 
+안녕하세요👋 <br>
+제 이름은 한태현이고, 게임개발을 공부중이에요!
 
-<h2 align="center"> 🎇 Me 🎇 </h2>
+<h2> &nbsp; Me 🎈 </h2>
 <br>
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=index1207&show_icons=true" width="45%"/> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=index1225" width="36.5%"/>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=index1207&show_icons=true" width="45%"/> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=index1225" width="36.5%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=index1207&layout=compact&thema=merko" width="45%"/>
 </div>
 <br>
 
-<h3 align="center"> 💌 SNS 💌 </h3>
-<div align="center">
-<a href="https://www.instagram.com/sgus._"><img src="https://img.shields.io/badge/Instagram-%23fc1eb6.svg?style=flat&logo=Instagram&logoColor=ffffff"/></a>
-<img src="https://img.shields.io/badge/태현%237500-%237289DA.svg?style=flat&logo=discord&logoColor=white"/>
+<h2><strong> &nbsp; Interested in ✨ <strong></h2>
+<div> &nbsp;
+<img src="https://img.shields.io/badge/C++-%23f0379a.svg?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal-%23313131.svg?style=flat&logo=unrealengine&logoColor=white"/>
 </div>
-<br>
-<br></br>
-
-<h2 align="center"> 🛠 Tech Stack 🛠 </h2>
-<div align="center">
-<img src="https://img.shields.io/badge/Unreal-%23313131.svg?style=flat&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Aseprite-ffffff?style=flat&logo=Aseprite&logoColor=7D929E"/>
-<br>
-<img src="https://img.shields.io/badge/C-aaaaaa?style=flat&logo=c&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C++-008eff?style=flat&logo=cplusplus&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/CUDA-%23000000.svg?style=flat&logo=Nvidia&logoColor=76B900"/>
-<br>
-<img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl"/> <img src="https://img.shields.io/badge/Vulkan-%23FFFFFF.svg?style=flat&logo=Vulkan&logoColor=red"/> <img src="https://img.shields.io/badge/SFML-%23FFFFFF.svg?style=flat&logo=SFML&logoColor=brightgreen"/> <img src="https://img.shields.io/badge/DirectX-%23FFFFFF.svg?style=flat&logo=Windows&logoColor=107C10"/>
+<div> &nbsp;
+<img src="https://img.shields.io/badge/DirectX-white.svg?style=flat&logo=windows&logoColor=1cba11"/> <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl"/> <img src="https://img.shields.io/badge/SFML-white.svg?style=flat&logo=SFML&logoColor=green">
 </div>
-
