@@ -15,5 +15,5 @@
 <img src="https://img.shields.io/badge/C++-%23f0379a.svg?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal-%23313131.svg?style=flat&logo=unrealengine&logoColor=white"/>
 </div>
 <div> &nbsp;
-<img src="https://img.shields.io/badge/DirectX-white.svg?style=flat&logo=windows&logoColor=1cba11"/> <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl"/> <img src="https://img.shields.io/badge/SFML-white.svg?style=flat&logo=SFML&logoColor=green">
+<img src="https://img.shields.io/badge/SFML-white.svg?style=flat&logo=SFML&logoColor=green">
 </div>
