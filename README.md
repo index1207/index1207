@@ -6,7 +6,7 @@
 <h2> &nbsp; Me 🎈 </h2>
 <br>
 <div>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=index1225" width="36.5%"/> <img src="http://mazandi.herokuapp.com/api?handle=index1225&theme=cold"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=index1225"/> <img src="http://mazandi.herokuapp.com/api?handle=index1225&theme=cold"/>
 </div>
 <br>
 
