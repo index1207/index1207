@@ -10,7 +10,7 @@
 </div>
 <br>
 
-<h2><strong> &nbsp; Interested in ✨ <strong></h2>
+<h2><strong> &nbsp; Tech Stack 🛠️ <strong></h2>
 <div> &nbsp;
-<img src="https://img.shields.io/badge/C++-%23f0379a.svg?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Network-blue.svg?style=flat&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/C++-%23f0379a.svg?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/IOCP-blue.svg?style=flat&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/>
 </div>
